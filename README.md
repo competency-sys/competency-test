@@ -1,4 +1,4 @@
-<h1>Golden Shovel General Competency</h1>
+<h1>General Competency</h1>
     <p>
       The test provided is a basic assessment of the general skills that will be necessary. There will be steps for
       you to follow along and answer. You can either pull directly through git and push or just install the zip file
